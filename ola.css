@@ -1,0 +1,27 @@
+H1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color:blue;
+    text-align: center;
+    transition:  color 1.5s;
+
+}
+
+h1:hover  {
+    border-radius: 120px;
+    color: red;
+    cursor: pointer;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color:blue;
+    text-align: center;
+    transition:  color 1.5s;
+
+}
